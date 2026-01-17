@@ -58,6 +58,45 @@ java Specialty: making minecraft server plugins
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0033,50:111111,100:000000&height=70&section=header&text=ORGANIZATIONS&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+## 🏢 My Organizations
+
+I run and maintain multiple development organizations for different projects and platforms.
+
+---
+
+### 🧩 2sPlugins — Minecraft Plugins
+
+High-performance plugins, server utilities, and custom mechanics built in Java.
+
+[![Visit 2sPlugins](https://img.shields.io/badge/Visit-2sPlugins-ff0033?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2sPlugins)
+[![Type](https://img.shields.io/badge/Type-Minecraft%20Development-00c6ff?style=for-the-badge)](#)
+
+---
+
+### 🤖 2sBots — Discord & Minecraft Bots
+
+Discord bots, Minecraft bots, AI systems, and automation services built with Node.js.
+
+[![Visit 2sBots](https://img.shields.io/badge/Visit-2sBots-ff0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2sBots)
+[![Discord](https://img.shields.io/badge/Platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Platform-3C8527?style=for-the-badge&logo=java&logoColor=white&logoWidth=16)](#)
+---
+
+### 🛠️ 2sDevelopments — Main Studio
+
+Central organization for large projects, shared systems, and long-term development.
+
+[![Visit 2sDevelopments](https://img.shields.io/badge/Visit-2sDevelopments-00c6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2sDevelopments)
+[![Type](https://img.shields.io/badge/Type-Development%20Studio-ff0055?style=for-the-badge)](#)
+
+---
+
+<p align="ce
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:6a00ff&height=70&section=header&text=WHAT%20I%20BUILD&fontSize=24&fontColor=ffffff" />
 </p>
 
@@ -134,6 +173,18 @@ java Specialty: making minecraft server plugins
 - Open-source tools
 - Real chanell for help
 - and more plugin for sure
+
+---
+
+## 🚧 Coming soon...
+
+New stuff is being built right now.  
+
+<p align="center">
+  <img src="https://media.tenor.com/himbGmuY4cgAAAAM/turtle-friends.gif" width="40%">
+</p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,30:ff0055,60:00c6ff,100:000000&height=260&section=footer&text=THANKS%20FOR%20ENTERING%20MY%20WORLD&fontSize=30&fontColor=ffffff&animation=twinkling" />
