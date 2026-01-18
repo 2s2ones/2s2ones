@@ -180,7 +180,7 @@ Central organization for large projects, shared systems, and long-term developme
 
 <p align="center">
 <p align="center">
-<img src="https://media.giphy.com/media/l0HlQ7LRalZbQJx5S/giphy.gif" width="85%">
+<img src="https://media.tenor.com/6bLqzMcCDzEAAAAM/marmalady-loading-cat.gif" width="-60%">
 </p>
 
 - Public plugin releases
@@ -190,6 +190,8 @@ Central organization for large projects, shared systems, and long-term developme
 - Real chanell for help
 - and more plugin for sure
 
+I have lot of stuff before 2027 😭
+
 ---
 
 ## 🚧 Coming soon...
@@ -197,10 +199,15 @@ Central organization for large projects, shared systems, and long-term developme
 New stuff is being built right now.  
 
 <p align="center">
-  <img src="https://media.tenor.com/himbGmuY4cgAAAAM/turtle-friends.gif" width="40%">
+  <img src="https://media.tenor.com/dzNBYn5e0bcAAAAM/im-busy-orange-cat.gif" width="40%">
 </p>
 
+I have a lot of ideas like a "about me" website and even with mini games, but guys new stuff are coming soon here ...
+
 ---
+
+<p align="center">
+  <img src="https://media.tenor.com/hEOM8E4epvgAAAAM/hahaha-thats-all-folks.gif" width="40%">
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,30:ff0055,60:00c6ff,100:000000&height=260&section=footer&text=THANKS%20FOR%20ENTERING%20MY%20WORLD&fontSize=30&fontColor=ffffff&animation=twinkling" />
