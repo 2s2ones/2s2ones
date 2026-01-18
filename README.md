@@ -126,8 +126,6 @@ Central organization for large projects, shared systems, and long-term developme
 |------|-------------|
 | Kit Bot | Automatic kit delivery |
 | Chat Bot | Custom command bot |
-| Guard Bot | Anti-spam & moderation |
-| Trade Bot | Item trading |
 | Custom Bot | Server-specific logic |
 
 ### 🛜 Discord Bots
