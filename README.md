@@ -27,7 +27,25 @@ and powerful Minecraft plugins that keep servers alive.
 </tr>
 </table>
 
+<!-- Welcome section -->
+<h2 align="center">👋 Welcome</h2>
+
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%21;Check+out+my+projects;Bots+plugins+and+mods&center=true&size=22&color=000000&pause=1200">
+</p>
+
+<p align="center">
+  welcome to the 2s2ones profile, here you can find a lot of stuff like plugins, mods, bots and more 
+  you can even see test stuff and experimets only
+
+  <br><br>
+
+  🚀 explore the secret of my repo  
+  🧩 Discover all my plugins  
+  🤖 see what my bots do!
+</p>
+
+<p align="center"></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:ff0055&height=70&section=header&text=PROFILE&fontSize=24&fontColor=ffffff" />
