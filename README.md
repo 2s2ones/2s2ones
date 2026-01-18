@@ -28,7 +28,9 @@ and powerful Minecraft plugins that keep servers alive.
 </table>
 
 <!-- Welcome section -->
-<h2 align="center">👋 Welcome</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a00ff,100:ff0055&height=70&section=header&text=WELCOME&fontSize=24&fontColor=ffffff" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile%21;Check+out+my+projects;Bots+plugins+and+mods&center=true&size=22&color=000000&pause=1200">
@@ -78,8 +80,6 @@ java Specialty: making minecraft server plugins
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0033,50:111111,100:000000&height=70&section=header&text=ORGANIZATIONS&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-## 🏢 My Organizations
 
 I run and maintain multiple development organizations for different projects and platforms.
 
