@@ -82,7 +82,7 @@ Discord bots, Minecraft bots, AI systems, and automation services built with Nod
 
 [![Visit 2sBots](https://img.shields.io/badge/Visit-2sBots-ff0055?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2sBots)
 [![Discord](https://img.shields.io/badge/Platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Minecraft](https://img.shields.io/badge/Minecraft-Platform-3C8527?style=for-the-badge&logo=java&logoColor=white&logoWidth=16)](#)
+[![Minecraft](https://img.shields.io/badge/Platform-Minecraft-3C8527?style=for-the-badge&logo=java&logoColor=white&logoWidth=16)](#)
 ---
 
 ### 🛠️ 2sDevelopments — Main Studio
